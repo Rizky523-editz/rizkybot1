@@ -1,5 +1,5 @@
 const help = (prefix) => { 
-	return `   *🍁MENU KAZUTOBOT 🍁*
+	return `   *🍁MENU rizkybot1 🍁*
 	
 	
 ┏━━━━━━━━━━━━━━━━━━━━━┓
@@ -7,7 +7,7 @@ const help = (prefix) => {
 ┃ *LANGGAR BLOCK/BANNED!!!*
 ┣━━━━°❀ *❬ ABOUT ❭* ❀°━━━━━━┛
 ┃
-┃⊱❥ *KAZUTOBOT*
+┃⊱❥ *rizkybot1*
 ┃⊱❥ *V 6.0*
 ┃⊱❥ *http://wa.me/6288221608614*
 ┃⊱❥ *Fadhil Graphy*             
